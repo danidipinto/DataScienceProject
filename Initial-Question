@@ -1,0 +1,14 @@
+Kaggle - Steam Video Games
+https://www.google.com/url?hl=en&q=https://www.kaggle.com/tamber/steam-video-games&source=gmail&ust=1491942263374000&usg=AFQjCNHwfrNKMUvNxY9LJYz27H7cXgSalQ
+
+What is the question you hope to answer?
+I want to find more information on trends in video games.  I’m hoping that by creating a model, I can use this game data to predict games that players may enjoy or want to purchase.  I’m hoping to find a way to use this data for new recommendations, however, it should at least show popular games and recommendations based on users playing, and hours logged. 
+
+What data are you planning to use to answer that question?
+This information will be based on previous games played by the user, and hours logged on those games.  This is public data that is open sourced by Valve, in the Steam community.  I am going to be using a database from Kaggle and Tamber to pull this information. 
+
+What do you know about the data so far?
+There’s a lot of data here.  There are rows of User IDs showing the unique users playing the games, games played, hours logged, and whether or not it was purchased.  
+
+Why did you choose this topic?
+I think Valve is a great company, and I like using Steam as a gaming platform.  I think it would be fascinating to try and use information that is open sourced to find trends in gaming and possibly find another way to predict games a user may enjoy.  
